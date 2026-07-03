@@ -167,7 +167,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 **Mikiyas Endalew**
 
 * GitHub: https://github.com/mikiendialem
-* LinkedIn: https://www.linkedin.com/in/mikiendialem
+* LinkedIn: https://www.linkedin.com/in/mikiyas-alem
 
 ---
 
