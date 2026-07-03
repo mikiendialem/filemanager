@@ -1,0 +1,4 @@
+rich==14.0.0
+colorama==0.4.6
+tqdm==4.67.1
+watchdog==6.0.0
